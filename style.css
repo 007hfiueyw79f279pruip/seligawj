@@ -1,0 +1,77 @@
+body{
+  background-color: black
+}
+
+h1{
+  text-align: center; font-size: 40px; color: yellow
+}
+p{
+  text-align: center;font-size: 50px
+}
+h2{
+    text-align: center; font-size: 40px; color: yellow
+}
+img{
+ margin-left: 25%
+}
+.texto{
+  color: white
+}
+header{
+  background-color:
+
+}
+li{
+ display:inline; margin-left: 15%;  font-size: 40px;
+}
+.cortes{
+ display:inline-flex;
+ padding-right: 100px
+}
+.atendimentos p
+{
+  color: white
+}
+.logo {
+  margin-left: 10%
+}
+h1 {
+margin-right: 10%
+}
+.ATIVIDADES {
+  background-color: black
+}
+.ATIVIDADES {
+  color: white
+}
+.atividadesimg {
+  margin-right: 0%
+}
+img{
+  image-resolution: from-image; height: 42%; width: 45%;
+}
+h3{
+  text-align: center; font-size: 40px; color: yellow
+}
+h4{
+  text-align: center; font-size: 40px; color: yellow
+}
+
+.header{
+  border: 10px solid red; border-radius: 20px
+  }
+.corpo{
+  border: 10px solid green; border-radius: 20px; border-width: thick; border-top: red
+}
+.header02{
+  border: 10px solid red; border-radius: 20px
+}
+.corpoatividades {
+  border: 10px solid yellow; border-radius: 20px; border-width: thick; border-top: red
+}
+.header03{
+  border: 10px solid red; border-radius: 20px
+}
+.corpo03{  border: 10px solid blue; border-radius: 20px; border-width: thick; border-top: red
+}
+.logo03{ border: 10px solid purple; border-radius: 20px; border-width: thick;
